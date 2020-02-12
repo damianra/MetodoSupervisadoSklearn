@@ -5,9 +5,8 @@ Damian Ramirez
 Se utilizara la libreria de Sklearn KNeighborsClassifier de aprendisaje 
 supervisado para analizar conjuntos de datos provenientes de capturas de 
 trafico de red infectada por el malware 2017-01-19-pseudoDarkleech-Rig-V-sends-Cerber 
-(https://www.malware-traffic-analysis.net/2017/01/19/index2.html), el cual 
-tiene un comportamiento que podria ser clasificado a simple vista por el ser 
-humano. Se utilizaron dos dataframes uno para test 
+(https://www.malware-traffic-analysis.net/2017/01/19/index2.html).
+Se utilizaron dos dataframes uno para test 
 (se clasifico el malware como M y normal como N) y otro para 
 entrenamiento (no esta clasificado).
 """
